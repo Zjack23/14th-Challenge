@@ -7,10 +7,8 @@ a CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 ## Table of Contents
 
-- [Application Screenshot](#Screenshot)
 - [Contributing](#contributing)
 - [Questions](#questions)
-
 
 ## Contributing
  
